@@ -1,3 +1,3 @@
 #!/bin/sh
 echo "code execution!"
-/bin/ls
+bash 
